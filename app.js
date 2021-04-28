@@ -1,13 +1,17 @@
 'use strict';
+function(){
+    let username = prompt ('Hello, could you please enter your name ');
+    console.log(username);
+    console.log(typeof username);
+}
 
-let username = prompt ('Hello, could you please enter your name ');
-console.log(username);
-console.log(typeof username);
-
-
+username();
+function(){
 let age = prompt ('Hello, could you please enter your name '  );
 console .log(age);
 console.log( typeof age );
+}
+age();
 
 //Iwant to change the prompt data from string to number
 age=Number(age);
