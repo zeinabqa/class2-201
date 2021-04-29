@@ -1,5 +1,5 @@
 'use strict';
-<<<<<<< HEAD
+
 let result = 0;
 let name1 = prompt('enter your name please');
 alert('you are wilcome ' + name1);
@@ -88,21 +88,21 @@ function q5(){
   default:
     console.log('default');
     alert('you lost 1 mark');
-=======
-function(){
+
+function username(){
     let username = prompt ('Hello, could you please enter your name ');
     console.log(username);
     console.log(typeof username);
 }
 
 username();
-function(){
+function age(){
 let age = prompt ('Hello, could you please enter your name '  );
 console .log(age);
 console.log( typeof age );
 }
 age();
->>>>>>> a41180df17dd33bee7bb7731ce03445d4f34165f
+
 
   }
 }
