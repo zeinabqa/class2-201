@@ -2,7 +2,7 @@
 
 let result = 0;
 let name1 = prompt('enter your name please');
-alert('you are wilcome ' + name1);
+alert('you are welcome ' + name1);
 function q1()
 {
   let name2 = prompt('Is my name zeinab? (YES/NO/Y/N)');
