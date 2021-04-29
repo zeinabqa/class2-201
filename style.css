@@ -10,15 +10,29 @@ nav ul li a{
     text-decoration: none;
     color: hsl(242, 34%, 78%);
 }
+body{
+
+    background-color:rosybrown
+}
 
 #firstitem{
-    background-color: aliceblue;
-}
+     background-color: rosybrown;
+} 
 
 .seconditem{
-    background-color: rgba(225, 231, 236, 0.842);
+    background-color: rosybrown;
 }
 
-body{
-    background-color: rosybrown;
+#parents{
+    background-color: deeppink;
+}
+#child1{
+    background-color: deeppink;
+}
+#child2{
+    background-color: blueviolet
+;
+}
+#child3{
+    background-color: rgb(185, 80, 255);
 }
