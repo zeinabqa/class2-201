@@ -31,11 +31,11 @@ this website made by zeinab qatramiz , and its contain everything we learned , a
 
 | Read files      | link |
 | ----------- | ----------- |
-| Read01      | [Link 1  ] ()  |
+| Read01      | [Link 1  ] (https://github.com/zeinabqa/class2-201/blob/main/class01)  |
 | Read02      | [Link 2  ] () |
-| Read03      | [Link 3  ] ()  |
-| Read04     | [Link 4  ]   () |
-| Read05     | [Link 5  ] ()  |
+| Read03      | [Link 3  ] (https://github.com/zeinabqa/class2-201/blob/main/class03)  |
+| Read04     | [Link 4  ]   (https://github.com/zeinabqa/class2-201/blob/main/class04) |
+| Read05     | [Link 5  ] (https://github.com/zeinabqa/class2-201/blob/main/class06.)|
 | Read06      | [Link 6 ] ()  |
 | Read07      | [Link 7 ]  () 
 | Read08      | [Link 8]()      |
