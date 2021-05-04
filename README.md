@@ -38,7 +38,7 @@ this website made by zeinab qatramiz , and its contain everything we learned , a
 | Read05     | [Link 5  ] (https://github.com/zeinabqa/class2-201/blob/main/class06.)|
 | Read06      | [Link 6 ] ()  |
 | Read07      | [Link 7 ]  (https://zeinabqa.github.io/class2-201/class07) 
-| Read08      | [Link 8]()      |
+| Read08      | [Link 8](https://zeinabqa.github.io/class2-201/class08)      |
 | Read09      | [Link 9]   ()   |
 | Read10      | [Link 10]()      |
 | Read11      | [Link 11]()      |
